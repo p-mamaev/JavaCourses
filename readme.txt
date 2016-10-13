@@ -13,3 +13,6 @@ git commit  -am "11"
 type readme.txt
 
 Function2
+
+1. Перейти в Branch получатель
+2. checkout master
