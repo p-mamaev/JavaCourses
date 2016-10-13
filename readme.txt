@@ -11,3 +11,5 @@ git checkout -b function1
 git commit  -am "11"
 
 type readme.txt
+
+Function2
